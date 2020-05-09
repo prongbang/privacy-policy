@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy</title>
+    <script src="./dist/vue.js"></script>
+    <script src="./dist/vue-router.js"></script>
+    <script src="./components/golder.js"></script>
+    <script src="./components/berdd.js"></script>
+    <style>
+      body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        padding: 1em;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <router-view></router-view>
+    </div>
+    <script>
+      // 2. Define some routes
+      const routes = [
+        { path: "/berdd", component: Berdd },
+        { path: "/golder", component: Golder },
+      ];
+
+      // 3. Create the router instance and pass the `routes` option
+      // You can pass in additional options here, but let's
+      // keep it simple for now.
+      const router = new VueRouter({
+        routes, // short for `routes: routes`
+      });
+
+      // 4. Create and mount the root instance.
+      const app = new Vue({
+        router,
+      }).$mount("#app");
+    </script>
+  </body>
+</html>

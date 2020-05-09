@@ -1,20 +1,8 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Privacy Policy</title>
-    <style>
-      body {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        padding: 1em;
-      }
-    </style>
-  </head>
-  <body>
+const Berdd = { template: `
+<div>
     <strong>Privacy Policy</strong>
     <p>
-      Endtry Studio built the Golder app as a Free app. This SERVICE is
+      Endtry Studio built the BERDD app as a Free app. This SERVICE is
       provided by Endtry Studio at no cost and is intended for use as is.
     </p>
     <p>
@@ -31,7 +19,7 @@
     </p>
     <p>
       The terms used in this Privacy Policy have the same meanings as in our
-      Terms and Conditions, which is accessible at Golder unless
+      Terms and Conditions, which is accessible at BERDD unless
       otherwise defined in this Privacy Policy.
     </p>
     <p><strong>Security</strong></p>
@@ -49,5 +37,5 @@
       changes by posting the new Privacy Policy on this page.
     </p>
     <p>This policy is effective as of 2020-04-15</p>
-  </body>
-</html>
+</div>
+` };
