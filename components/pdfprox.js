@@ -2,7 +2,7 @@ const PdfProX = { template: `
 <div>
     <strong>Privacy Policy</strong>
     <p>
-      INTENIQUETIC built the PDF Pro X app as a free service. This application is provided by INTENIQUETIC at no cost and is intended for use as-is.
+      OTEL TECH & INTENIQUETIC built the PDF Pro X app as a free service. This application is provided by OTEL TECH & INTENIQUETIC at no cost and is intended for use as-is.
     </p>
     <p>
       This page informs users about our policies regarding the collection, use, and disclosure of personal information if anyone decides to use our service.
