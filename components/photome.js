@@ -2,8 +2,8 @@ const PhotoMe = { template: `
 <div>
     <strong>Privacy Policy</strong>
     <p>
-      Endtry Studio built the PHOTO ME app as a Free app. This SERVICE is provided
-      by Endtry Studio at no cost and is intended for use as is.
+      INTENIQUETIC built the PHOTO ME app as a Free app. This SERVICE is provided
+      by INTENIQUETIC at no cost and is intended for use as is.
     </p>
     <p>
       This page is used to inform visitors regarding my policies with the
