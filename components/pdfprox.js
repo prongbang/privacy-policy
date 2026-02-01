@@ -8,10 +8,14 @@ const PdfProX = { template: `
       This page informs users about our policies regarding the collection, use, and disclosure of personal information if anyone decides to use our service.
     </p>
     <p>
-      Please note that PDF Pro X does not collect or use any personal information. All data is managed locally on your device, and we do not share or transmit any information to external parties. 
+      Please note that PDF Pro X does not directly collect or use personal information. All user files and content are managed locally on your device, and we do not transmit your files to our servers.
     </p>
     <p>
-      To support the free availability of PDF Pro X, we may display advertisements within the app. These ads are managed by third-party ad networks. While we do not collect your personal information, these ad networks may use their own tracking technologies to serve and manage ads. We do not have access to or control over their data collection practices.
+      To support the free availability of PDF Pro X, we display advertisements within the app. These ads are provided by third-party ad networks. Those providers may collect certain information (such as device identifiers, IP address, coarse location, and usage data) and use cookies or similar technologies to serve, personalize, and measure ads. We do not access, store, or control the information collected by these third parties.
+    </p>
+    <p><strong>Third-Party Services</strong></p>
+    <p>
+      The app uses third-party services for advertising and related analytics. These services may collect information under their own privacy policies. You can review the list of current providers and their policies within the app or our official website.
     </p>
     <p>
       The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which can be accessed within the PDF Pro X app unless otherwise defined in this Privacy Policy.
@@ -24,6 +28,6 @@ const PdfProX = { template: `
     <p>
       We may update this Privacy Policy periodically. We encourage you to review this page periodically for any changes. Any updates will be posted on this page.
     </p>
-    <p>This policy is effective as of 2024-08-01</p>
+    <p>This policy is effective as of 2026-02-01</p>
 </div>
 `};
